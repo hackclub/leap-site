@@ -248,6 +248,9 @@ body {
   .hidden-sm {
     display: block;
   }
+  #kevincreditalt {
+    display: none;
+  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -274,6 +277,8 @@ body {
   #kevincredit {
     display: none;
   }
+  
+  
 }
 
 
